@@ -1,3 +1,5 @@
+package CapaNegocio;
+
 public class Empleado {
 
     private Object codigo;

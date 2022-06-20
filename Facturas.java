@@ -1,3 +1,5 @@
+package CapaNegocio;
+
 public class Facturas extends Comprobante {
 
     private Object rucFact;

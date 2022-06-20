@@ -1,3 +1,5 @@
+package CapaNegocio;
+
 public class Comprobante {
 
     private Object fechaEmision;

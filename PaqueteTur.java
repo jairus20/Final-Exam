@@ -1,3 +1,5 @@
+package CapaNegocio;
+
 public class PaqueteTur {
 
     private Object precioTotal;

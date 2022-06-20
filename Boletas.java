@@ -1,3 +1,5 @@
+package CapaNegocio;
+
 public class Boletas extends Comprobante {
 
     private Object nroBoleta;

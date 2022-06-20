@@ -1,3 +1,5 @@
+package CapaNegocio;
+
 public class Reservas {
 
     private Object direccion;

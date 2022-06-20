@@ -1,3 +1,5 @@
+package CapaNegocio;
+
 public class Actividades {
 
     public Object getNombre() {

@@ -1,3 +1,5 @@
+package CapaNegocio;
+
 public class Cliente {
 
     private Object nombre;

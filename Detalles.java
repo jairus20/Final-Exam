@@ -1,3 +1,5 @@
+package CapaNegocio;
+
 public class Detalles {
 
     private Object ruc;
